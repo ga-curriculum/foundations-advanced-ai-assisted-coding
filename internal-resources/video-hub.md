@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Lab: Create a Custom GPT for Pseudocoding  </span>
   <span class="subhead">Video Hub</span>
 </h1>
 
